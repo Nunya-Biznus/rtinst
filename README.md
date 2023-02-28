@@ -30,6 +30,8 @@ Current release has been tested with clean installs of:
 	Ubuntu 18
 	Ubuntu 19
 	Ubuntu 20
+	Ubuntu 21
+	Ubuntu 22
 	Debian 9 "Stretch"
 	Debian 10 "Buster"
 
